@@ -28,7 +28,7 @@ import { DashboardComponent } from './dashboard/dashboard.component';
           {
             id: GoogleLoginProvider.PROVIDER_ID,
             provider: new GoogleLoginProvider(
-              '237087913897-ddssnq95bmqmvuc6baptbk2v1bd5sg3p.apps.googleusercontent.com'
+              '' // add web app client id
             )
           }
         ]
